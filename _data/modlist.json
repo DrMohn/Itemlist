@@ -1,32 +1,794 @@
-﻿[
+[
   {
-    "author": "Andreas Pardeike",
-    "name": "Harmony",
-    "steamId": "2009463077",
-    "version": "1.2.0.0"
+    "author": "SheiFoxy",
+    "name": "SF Grim Reality",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "UnlimitedHugs",
-    "name": "HugsLib",
-    "steamId": "818773962",
-    "version": "9.0.1"
+    "name": "Allow Tool",
+    "steamId": null,
+    "version": null
   },
   {
-    "author": "hodlhodl",
-    "name": "ToolkitCore",
-    "steamId": "2018368654",
-    "version": "1.0.0.0"
+    "author": "Roolo",
+    "name": "Almost There!",
+    "steamId": null,
+    "version": null
   },
   {
-    "author": "hodlhodl",
-    "name": "Twitch Toolkit",
-    "steamId": "1718525787",
-    "version": "2.0.10.0"
+    "author": "Yoann",
+    "name": "Common Sense - opportunistic cleaning patch",
+    "steamId": null,
+    "version": null
   },
   {
-    "author": "SirRandoo",
-    "name": "ToolkitUtils",
-    "steamId": "2009500580",
-    "version": "6.1.6.0"
+    "author": "Unidentified",
+    "name": "Architect Icons: Improved",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Edern, Sir Van, Ythern and Scorpio",
+    "name": "Archotech Weaponry",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "AUTOMATIC",
+    "name": "Auto links",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "MrSamuelStreamer",
+    "name": "Basic RimThemes Recolours",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Nephlite",
+    "name": "Better Explosions",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "telardo",
+    "name": "Better Gene Graphics Framework",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Seanbeag",
+    "name": "Better Laborers",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "large moron",
+    "name": "Better Scenario Research and Tech Level Options",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Owlchemist",
+    "name": "Better Vanilla Masking",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Falconne",
+    "name": "Better Workbench Management",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "AUTOMATIC",
+    "name": "Bionic icons",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Adara Firecaster",
+    "name": "Buyable Quest Rewards",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "ColdToad",
+    "name": "Centralized Climate Control (Continued)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Kapitan Oczywisty",
+    "name": "Change map edge limit",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Neronix17",
+    "name": "Character Editor Retextured",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "PsiGoatAryn",
+    "name": "Consciously Malnourished",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Sea",
+    "name": "Constructoids Can Mine",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "kathanon",
+    "name": "Float Sub-Menus",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Mawy",
+    "name": "Craftable",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Ogam",
+    "name": "Custom player icon",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "民火",
+    "name": "Cut plants before building",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "UnlimitedHugs",
+    "name": "Defensive Positions",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Owlchemist",
+    "name": "Door Clearance",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "dracoix",
+    "name": "Door Mat",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "telardo",
+    "name": "DragSelect",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "小面包",
+    "name": "DrakkenLaserDrill.ReTexture",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Arekan",
+    "name": "Enhanced Combat Sounds",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "SmArtKar and Elseud",
+    "name": "Enhanced Vat Learning",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Erin",
+    "name": "Erin's Body Retexture",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "WalterHawkwood",
+    "name": "Facial Animations Xenotype Compatibility",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "ShadeMonger04",
+    "name": "Faction Auto Limiter",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Kosaro",
+    "name": "Fahrenheit and Celsius",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Sugi",
+    "name": "Fix Mechanoid Resource Drop",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "AobaKuma",
+    "name": "Fortifications - Industrial",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Aoba",
+    "name": "Fortification Industrial -Nuclear Dawn",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "SteveZero",
+    "name": "Full Armor - Hands and Feet",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "theactualspinny",
+    "name": "Gene Trader",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Turnovus",
+    "name": "Integrated Genes",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki, Trunken and Sarg Bjornson",
+    "name": "Vanilla Weapons Expanded",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Taggerung and Mr Samuel Streamer",
+    "name": "Grignr Happens By",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "ANNOProfi",
+    "name": "Hell Bionics",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "illPosedProblem",
+    "name": "Ideo Roles - No Disabled Work",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Mlie",
+    "name": "Ignore Idle Guests",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Mlie",
+    "name": "Just Put It Over There",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Zaljerem",
+    "name": "KEP:Toolbox Bionics (Continued)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "kathanon",
+    "name": "Limit Quest Pawns",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki and Sarg Bjornson",
+    "name": "Vanilla Furniture Expanded - Power",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "4loris4",
+    "name": "More Linkables",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Brat",
+    "name": "Linkables Patch",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Pal 5k",
+    "name": "Logistics_Mechanoid",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "UnlimitedHugs and TheRealLemon",
+    "name": "Map Reroll (1.4)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Lexxie",
+    "name": "Middle Layer Slave Strap",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Superniquito",
+    "name": "Mod Options Sort",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Bonible",
+    "name": "Modded Weapon Sound Replacement",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Morphium",
+    "name": "Morphs Assorted Biotech Retex",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "D4egon and Mr Samuel Streamer",
+    "name": "Mr Samuel Streamer's Custom Faction",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Papymaj5",
+    "name": "No Debris",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "kathanon",
+    "name": "No Disabled Factions In Quests",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Edern",
+    "name": "No Random Apparel on Ideology Edit",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "CarbonTNT",
+    "name": "No Self Tame",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Proxyer",
+    "name": "Optional Icons for Architect Icons",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oracle and Erin",
+    "name": "Oracle + Erin's HD Tattoos",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Owlchemist",
+    "name": "Perspective: Doors",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Owlchemist",
+    "name": "Simple Utilities: Wall",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Owlchemist",
+    "name": "Perspective: Buildings",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "AobaKuma",
+    "name": "Post-apocalyptic Shelters",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Hahkethomemah",
+    "name": "Prisoners with jobs (definitely not slaves)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "AobaKuma",
+    "name": "Fortification Industrial - Citadel",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "NomadRw",
+    "name": "Projectile Bullet Retexture",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "jeonggihun",
+    "name": "Quarry retexture",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "SirMcKeon",
+    "name": "Reasonable Components",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Brat",
+    "name": "Remove Real Religions",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "OskarPotocki, Atlas and Kikohi",
+    "name": "Vanilla Furniture Expanded",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "ruPal",
+    "name": "RimPy Mod Manager Database",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Orpheusly",
+    "name": "Rimsential - Homebound",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "LVLVbNH",
+    "name": "Roles untied to memes",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki and Trunken",
+    "name": "Vanilla Furniture Expanded - Production",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Owlchemist and Mlie",
+    "name": "Simple FX: Smoke",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "krafs",
+    "name": "Scenario Amender [1.4]",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "SpaceMoth",
+    "name": "Show Known Techprints",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki and Kikohi",
+    "name": "Vanilla Chemfuel Expanded",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Scorpio",
+    "name": "Appliances Expanded",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki and Kikohi",
+    "name": "Vanilla Expanded - Ideology Patches",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki and Kikohi",
+    "name": "Vanilla Expanded - Royalty Patches",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "MysticFelines",
+    "name": "Simple FX: Smoke Patches",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "TechnoFox",
+    "name": "Simple Learning",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Lanilor and Proxyer",
+    "name": "Simple Recycling",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Owlchemist",
+    "name": "Simple Utilities: Fridge",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Koni",
+    "name": "Steamworld Uniforms",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "AobaKuma",
+    "name": "StylePack - Combined Logistics Command",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Shenanigans",
+    "name": "Tech Tattoos",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "these people",
+    "name": "Thrones For All",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Owlchemist",
+    "name": "Toggleable Shields",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Superniquito",
+    "name": "Trait and Backstory Icons",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Katsudon",
+    "name": "UI Retexture",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Owlchemist",
+    "name": "Underground Power Conduits",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Madara Uchiha",
+    "name": "Undraft After Tucking",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Nephlite and Maxim",
+    "name": "Utility Columns",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "SirVan",
+    "name": "Van's Retexture : Mechanitor",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "SirVan",
+    "name": "Van's Retexture : Melee Weapons",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Haplo",
+    "name": "Misc. Training",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "SirVan",
+    "name": "Van's Retexture : Misc. Training",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki and Trunken",
+    "name": "Vanilla Apparel Expanded",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki, Trunken and Sarg Bjornson",
+    "name": "Vanilla Armour Expanded",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki, xrushha and SmashPhil",
+    "name": "Vanilla Apparel Expanded — Accessories",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Inventor Raccoon",
+    "name": "Vanilla Expanded - Raccoon's Patch",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki",
+    "name": "Vanilla Furniture Expanded - Props and Decor",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Neronix17",
+    "name": "Vanilla Hair Retextured",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki and Sarg Bjornson",
+    "name": "Vanilla Ideology Expanded - Icons and Symbols",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki and Kikohi",
+    "name": "Vanilla Nutrient Paste Expanded",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki and Sarg Bjornson",
+    "name": "Vanilla Races Expanded - Custom Icons",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki",
+    "name": "Vanilla Storytellers Expanded - Perry Persistent",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki, Helixien, Erin, Luizi, ISOREX, erdelf and Baleur",
+    "name": "Vanilla Textures Expanded - Baleur Mechs Icon",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki, AveryTheKitty and Taranchuk",
+    "name": "Vanilla Weapons Expanded - Coilguns",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki",
+    "name": "Vanilla Weapons Expanded - Grenades",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki and Taranchuk",
+    "name": "Vanilla Weapons Expanded - Heavy Weapons",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "legodude17",
+    "name": "Vanilla Weapons Expanded - Heavy - Reloading Patch",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "bodlosh",
+    "name": "WeaponStats",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Deivisis",
+    "name": "Weight price",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oracle of Thessia",
+    "name": "Vanilla Textures Expanded - [NL] Facial Animation",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Nera",
+    "name": "[BT] SpawnThoseGenes!",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "OPERATOR",
+    "name": "[BT] EyeGenes2 | Base - [NL] Facial Animation |",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "FrozenSnowFox",
+    "name": "[FSF] Complex Jobs",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "FrozenSnowFox",
+    "name": "[FSF] No Default Shelf Storage",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Lyn the Cookie and Courier 69",
+    "name": "[LYN] Vanilla Expanded Content Restoration",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Kikohi",
+    "name": "Taming Artifact",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "ThatBartGuy",
+    "name": "Advanced Pollution Pump",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "FluffyTowels",
+    "name": "Fortifications - Citadel Deconstructible",
+    "steamId": null,
+    "version": null
   }
 ]
